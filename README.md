@@ -1,5 +1,7 @@
 # WhatsCorp
 
+![](/assets/marca_whatscorp_banner.png)
+
 Todo cliente tem uma hospedagem própria e os dados não são misturados ou compartilhados com os dados de outras instituições.
 
 A solução é composta de um **Módulo Web** e de um **Aplicativo**, ambos contemplados nesse tutorial.O **aplicativo**, por ser bastante intuitivo, praticamente dispensa a necessidade de ajuda, já o **Módulo Web** requer um pouco de orientação.Contemplamos essa mesma divisão no tutorial:
@@ -12,5 +14,4 @@ O acesso ao módulo web se dá no endereço http:\/\/**sua\_instituicao**.whatsc
 ## Aplicativo
 
 O Aplicativo está disponível nas lojas IOS e ANDROID. É no aplicativo que os usuários farão as interações, receberão as mensagens, os alertas, responderão às enquetes, etc.
-
 
