@@ -1,6 +1,6 @@
 # Módulo Web
 
-Ao acessr o módulo web, você irá visualizar o menu lateral
+Ao acessar o módulo web, você irá visualizar o menu lateral
 
 ![](/assets/W_inicio_1.png)
 
